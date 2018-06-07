@@ -329,6 +329,9 @@ TESTIMONIAL
 	
 }
 
+.navbar-brand img{
+	height:60px!important;
+}
 .single-testimonial{
 	padding: 80px 0;
 	text-align: center;
