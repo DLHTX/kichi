@@ -201,7 +201,8 @@ textarea.form-control{
 	color: #000;
 }
 
-.btn-primary:hover,
+/*.btn-primary:hover,*/
+/*
 .btn-primary:active,
 .btn-primary:active:hover,
 .btn-primary:focus{
@@ -209,6 +210,7 @@ textarea.form-control{
 	color: #fff;
 	border-color:#000;
 }
+*/
 
 .call-to-action{
 	background: #000;
