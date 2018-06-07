@@ -301,7 +301,16 @@ PORTFOLIO
 	display: none;
 }
 
+#portfolio-grid p{
+	text-align:center!important;
+	color:black;
+	font-family:"Adobe 黑体 Std R";
+}
 
+#Cooperator img {
+	height:70px!important;
+
+}
 /******
 TESTIMONIAL
 **********/
